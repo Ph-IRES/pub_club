@@ -4,6 +4,18 @@ Resources for writing your manuscript
 
 ---
 
+## Scientific Writing
+
+[Principles of Scientific Writing](sci_writing.md)
+
+[Outlining](outlining.md)
+
+[Paragraphs](paragraphs.md)
+
+[Logical Flow](flow.md)
+
+---
+
 ## Manuscript Sections
 
 [Introduction](introduction.md) : Typically, you will write an introduction in your proposal.  You probably won't return to this until you've completed the discussion.
@@ -23,18 +35,6 @@ Resources for writing your manuscript
 [Revisions](revisions.md):
 
 [Polishing](polishing.md):
-
----
-
-## Scientific Writing
-
-[Principles of Scientific Writing](sci_writing.md)
-
-[Outlining](outlining.md)
-
-[Paragraphs](paragraphs.md)
-
-[Logical Flow](flow.md)
 
 ---
 
