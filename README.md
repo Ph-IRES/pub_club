@@ -4,17 +4,25 @@ Resources for writing your manuscript
 
 ---
 
-## Writing Manuscript Sections
+## Manuscript Sections
 
-[Methods](methods.md)
+[Introduction](introduction.md) : Typically, you will write an introduction in your proposal.  You probably won't return to this until you've completed the discussion.
 
-[Results](results.md)
+[Methods](methods.md): Typically, you will write a methods section in your proposal.  When you complete your research and are ready to write up the results, you should start here.
 
-[Discussion](discussion.md)
+[Results](results.md): After you finish the Methods, write the results.
 
-[Introduction](introduction.md)
+[Discussion](discussion.md): After you finish the Results, write the Discussion.
 
-[Abstract](abstract.md)
+[Introduction](introduction.md): After you finish the Discussion, revise the Introduction.
+
+[Abstract](abstract.md): After you've revised the Introduction, write the Abstract.
+
+---
+
+## Scientific Writing
+
+[Principles of Scientific Writing](sci_writing.md)
 
 ---
 
