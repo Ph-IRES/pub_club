@@ -18,11 +18,23 @@ Resources for writing your manuscript
 
 [Abstract](abstract.md): After you've revised the Introduction, write the Abstract.
 
+[Journal Selection](journal_selection.md): If you have not yet, it's time to select a journal
+
+[Revisions](revisions.md):
+
+[Polishing](polishing.md):
+
 ---
 
 ## Scientific Writing
 
 [Principles of Scientific Writing](sci_writing.md)
+
+[Outlining](outlining.md)
+
+[Paragraphs](paragraphs.md)
+
+[Logical Flow](flow.md)
 
 ---
 
