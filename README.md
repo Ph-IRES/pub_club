@@ -14,6 +14,8 @@ Resources for writing your manuscript
 
 [Logical Flow](flow.md)
 
+[Resources](resources.md)
+
 ---
 
 ## Drafting Manuscript
