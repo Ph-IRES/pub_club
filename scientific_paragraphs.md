@@ -1,4 +1,4 @@
-Tutorial: Writing a Scientific Paragraph
+# Writing a Scientific Paragraph
 
 Step 1: Define the Purpose of the Paragraph
 
