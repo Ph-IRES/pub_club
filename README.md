@@ -16,7 +16,7 @@ Resources for writing your manuscript
 
 ---
 
-## Manuscript Sections
+## Drafting Manuscript
 
 [Introduction](introduction.md) : Typically, you will write an introduction in your proposal.  You probably won't return to this until you've completed the discussion.
 
