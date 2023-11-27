@@ -32,9 +32,9 @@ Resources for writing your manuscript
 
 [Journal Selection](journal_selection.md): If you have not yet, it's time to select a journal
 
-[Revisions](revisions.md):
+[Revisions](revisions.md): _Need to add_
 
-[Polishing](polishing.md):
+[Polishing](polishing.md): _Need to add_
 
 ---
 
