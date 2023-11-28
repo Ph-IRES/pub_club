@@ -16,6 +16,8 @@ Resources for writing your manuscript
 
 [Resources](resources.md)
 
+[Research on AI in Scientific Writing](https://scholar.google.com/scholar?cites=7953410083180636368&as_sdt=5,44&sciodt=0,44&hl=en)
+
 ---
 
 ## Drafting Manuscript
