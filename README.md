@@ -42,6 +42,15 @@ Resources for writing your manuscript
 
 ---
 
+## Meetings
+
+* [2023-12-04: Scientific writing & flow](https://tamucc.zoom.us/rec/share/5Afl6vP06zM3zjZDh5sH2ngYVXKoH5EIfSEjR_gZzN71DuVM4szwTuHE-r6k1hn4.pkFM3hqB__-shLww?startTime=1701713067000
+Passcode: +UNE67MK)
+
+* 2023-11-27: First Meeting
+  * Was not recorded
+  * Topics: Outlining, Paragraphs
+     
 ## Creation of Materials
 
 ChatGPT was used to create the first draft of these materials.  This is the link to the conversation: https://chat.openai.com/share/b2257f25-4519-4aca-8900-9b71235707b7
