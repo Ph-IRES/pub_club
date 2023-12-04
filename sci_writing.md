@@ -31,10 +31,10 @@
     Present Unbiased Views: Avoid personal opinions or biases in your writing.
     Report Findings Honestly: Present your results honestly, even if they didn’t meet your expectations or contradict your hypothesis.
 
-   -- **Non-Objective Writing**: Scientists, who obviously care deeply about our planet, believe that the blue-spotted frog must be conserved at all costs. Their findings, though they contradict popular opinion, are driven by a moral imperative to save this adorable and innocent species, which is clearly more important than any other consideration.
+   - **Non-Objective Writing**: Scientists, who obviously care deeply about our planet, believe that the blue-spotted frog must be conserved at all costs. Their findings, though they contradict popular opinion, are driven by a moral imperative to save this adorable and innocent species, which is clearly more important than any other consideration.
 Revised Objective Writing:
 
-   -- **Revision**: Sevaral factors suspected to be impacting the blue-spotted frog population were investigated. While there is a general consensus on the importance of species conservation, recent data suggest that conservation efforts for this species need to be balanced with other environmental and economic considerations. The findings indicate a complex interplay between the species' survival and broader ecosystem health.
+   - **Revision**: Sevaral factors suspected to be impacting the blue-spotted frog population were investigated. While there is a general consensus on the importance of species conservation, recent data suggest that conservation efforts for this species need to be balanced with other environmental and economic considerations. The findings indicate a complex interplay between the species' survival and broader ecosystem health.
 
 In the objective revision, the writing is focused on the facts and findings rather than emotional or moral judgments. It acknowledges the complexity of conservation decisions without imposing a biased view of the species' importance.
 
