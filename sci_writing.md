@@ -26,7 +26,7 @@
 
    - **Revision**: Providing full and proper citations for every source used.
 
-4. Objectivity:
+3. Objectivity:
 
     Present Unbiased Views: Avoid personal opinions or biases in your writing.
     Report Findings Honestly: Present your results honestly, even if they didn’t meet your expectations or contradict your hypothesis.
@@ -38,7 +38,7 @@ Revised Objective Writing:
 
 In the objective revision, the writing is focused on the facts and findings rather than emotional or moral judgments. It acknowledges the complexity of conservation decisions without imposing a biased view of the species' importance.
 
-6. Structure:
+4. Structure:
 
     Follow Standard Structure: Adhere to the typical structure of a scientific paper (Introduction, Methods, Results, Discussion, Abstract).
     Logical Flow: Ensure there is a logical flow from one section to the next.
@@ -51,7 +51,7 @@ In the objective revision, the writing is focused on the facts and findings rath
 
    - **Revision**: Use of clear subheadings and separate paragraphs for each topic.
 
-7. Coherence:
+5. Coherence:
 
     Maintain Consistency: Be consistent in your use of terms, abbreviations, and formatting.
     Link Sections: Ensure each part of the paper connects logically to the others.
@@ -60,7 +60,7 @@ In the objective revision, the writing is focused on the facts and findings rath
  
    - **Revision**: The study showed that the bacteria were resistant to antibiotics and increased in number.
   
-8. Audience Awareness:
+6. Audience Awareness:
 
     Know Your Audience: Write with your audience’s level of knowledge in mind.
     Be Engaging: While maintaining professionalism, try to make your writing engaging.
@@ -69,7 +69,7 @@ In the objective revision, the writing is focused on the facts and findings rath
 
    - **Improved**: Adjusting the language to match the audience's level of expertise.
 
-9. Use of Visuals:
+7. Use of Visuals:
 
     Relevant Graphics: Use tables, figures, and charts to complement your text.
     Label Clearly: Ensure all visuals are clearly labeled and referenced in the text.
@@ -78,17 +78,17 @@ In the objective revision, the writing is focused on the facts and findings rath
 
    - **Improved**: A graph with clear, legible labels, a concise legend, and a straightforward title.
 
-10. Ethical Writing:
+8. Ethical Writing:
 
     Avoid Plagiarism: Always credit sources and ideas that are not your own.
     Disclose Conflicts of Interest: Be transparent about any potential conflicts of interest.
 
-11. Revision and Feedback:
+9. Revision and Feedback:
 
     Revise Thoroughly: Revise your drafts for clarity, coherence, and length.
     Seek Feedback: Get input from colleagues or mentors to improve your writing.
 
-12. Adherence to Guidelines:
+10. Adherence to Guidelines:
 
     Journal Guidelines: Follow specific guidelines provided by the journal or publisher.
     Referencing Style: Use the appropriate referencing style consistently throughout your paper.
