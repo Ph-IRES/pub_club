@@ -9,7 +9,7 @@
         To illustrate a point: "for instance," "for example," "specifically."
         To show cause and effect: "therefore," "thus," "as a result."
 
-**Violation:** The experiment was successful. The equipment was outdated.
+**Example:** The experiment was successful. The equipment was outdated.
    
 **Revision:** The experiment was successful. However, the equipment was outdated.
 
@@ -20,7 +20,7 @@
     Start with general statements and gradually move to specific details or vice versa.
     If explaining a process or sequence, follow the chronological order or the order of steps as they occur.
 
-**Violation:** The cell divides. Mitosis occurs in eukaryotic cells.
+**Example:** The cell divides. Mitosis occurs in eukaryotic cells.
 
 **Revision:** Mitosis occurs in eukaryotic cells. During this process, the cell divides.
 
@@ -31,7 +31,7 @@
     Each sentence should connect to the previous one in some way, whether it's expanding on a point, providing evidence, or illustrating an example.
     Avoid abrupt jumps between ideas which can confuse the reader.
 
-**Violation:** The climate is changing rapidly. Frogs are amphibians.
+**Example:** The climate is changing rapidly. Frogs are amphibians.
 
 **Revision:** The climate is changing rapidly. As a result, many amphibians, like frogs, are losing their habitats.
 
@@ -42,7 +42,7 @@
     Sentences that convey related ideas or pieces of information should be grouped together within the paragraph.
     This helps in creating a cohesive argument or narrative.
 
-**Violation:** The lake is polluted. Birds migrate in the winter. Industrial waste is a major cause.
+**Example:** The lake is polluted. Birds migrate in the winter. Industrial waste is a major cause.
 
 **Revision:** The lake is polluted, primarily due to industrial waste. This pollution is affecting local wildlife.
 
@@ -53,7 +53,7 @@
     Start with a clear topic sentence that sets the tone and direction for the paragraph.
     End with a concluding sentence that ties the sentences together, reinforcing the main point of the paragraph.
 
-**Violation:** Many factors contribute to climate change. Forests absorb carbon dioxide. Electric cars are gaining popularity.
+**Example:** Many factors contribute to climate change. Forests absorb carbon dioxide. Electric cars are gaining popularity.
 
 **Revision:** Many factors contribute to climate change. For instance, forests absorb carbon dioxide, reducing atmospheric CO2. Additionally, the rise of electric cars helps reduce emissions. These factors collectively help mitigate climate change.
 
@@ -63,7 +63,7 @@
 
     Inconsistencies in verb tense and voice can disrupt the flow. Stick to a particular tense and voice as much as possible throughout the paragraph.
 
-**Violation:** Researchers found evidence. They are publishing their findings.
+**Example:** Researchers found evidence. They are publishing their findings.
 
 **Revision:** Researchers found evidence and are now publishing their findings.
 
@@ -74,7 +74,7 @@
     Using a similar structure for multiple sentences can help in creating a rhythm and improving the flow.
     For example, if listing several factors, use a similar grammatical structure for each point.
 
-**Violation:** The study was long and exhausting, but it was of great significance.
+**Example:** The study was long and exhausting, but it was of great significance.
 
 **Revision:** The study was long, exhausting, and significantly important.
 
@@ -84,7 +84,7 @@
 
     Reading your paragraph aloud can help you catch awkward phrases or choppy transitions. If something sounds off when spoken, it may need rephrasing.
 
-**Violation:** The species' extinction rates are increasing because their habitats, which are being destroyed, are essential.
+**Example:** The species' extinction rates are increasing because their habitats, which are being destroyed, are essential.
 
 **Revision:** The species' extinction rates are increasing because their essential habitats are being destroyed.
 
@@ -100,7 +100,7 @@
 
     Often, rewriting sentences for clarity and conciseness can improve the overall flow. Avoid overly complex or lengthy sentences that could disrupt the reading experience.
 
-**Violation:** The process by which photosynthesis occurs in plants involves several complex and intricate steps that are critical for the survival of the plant.
+**Example:** The process by which photosynthesis occurs in plants involves several complex and intricate steps that are critical for the survival of the plant.
 
 **Revision:** Photosynthesis, a critical process for plant survival, involves several complex steps.
 
