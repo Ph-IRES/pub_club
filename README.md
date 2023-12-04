@@ -44,8 +44,7 @@ Resources for writing your manuscript
 
 ## Meetings
 
-* [2023-12-04: Scientific writing & flow](https://tamucc.zoom.us/rec/share/5Afl6vP06zM3zjZDh5sH2ngYVXKoH5EIfSEjR_gZzN71DuVM4szwTuHE-r6k1hn4.pkFM3hqB__-shLww?startTime=1701713067000
-Passcode: +UNE67MK)
+* [2023-12-04: Scientific writing & flow](https://tamucc.zoom.us/rec/share/5Afl6vP06zM3zjZDh5sH2ngYVXKoH5EIfSEjR_gZzN71DuVM4szwTuHE-r6k1hn4.pkFM3hqB__-shLww?startTime=1701713067000)
 
 * 2023-11-27: First Meeting
   * Was not recorded
