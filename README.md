@@ -49,7 +49,9 @@ Resources for writing your manuscript
 * 2023-11-27: First Meeting
   * Was not recorded
   * Topics: Outlining, Paragraphs
-     
+
+---
+
 ## Creation of Materials
 
 ChatGPT was used to create the first draft of these materials.  This is the link to the conversation: 
