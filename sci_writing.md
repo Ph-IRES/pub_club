@@ -31,7 +31,14 @@
     Present Unbiased Views: Avoid personal opinions or biases in your writing.
     Report Findings Honestly: Present your results honestly, even if they didn’t meet your expectations or contradict your hypothesis.
 
-5. Structure:
+   -- **Non-Objective Writing**: Scientists, who obviously care deeply about our planet, believe that the blue-spotted frog must be conserved at all costs. Their findings, though they contradict popular opinion, are driven by a moral imperative to save this adorable and innocent species, which is clearly more important than any other consideration.
+Revised Objective Writing:
+
+   -- **Revision**: Sevaral factors suspected to be impacting the blue-spotted frog population were investigated. While there is a general consensus on the importance of species conservation, recent data suggest that conservation efforts for this species need to be balanced with other environmental and economic considerations. The findings indicate a complex interplay between the species' survival and broader ecosystem health.
+
+In the objective revision, the writing is focused on the facts and findings rather than emotional or moral judgments. It acknowledges the complexity of conservation decisions without imposing a biased view of the species' importance.
+
+6. Structure:
 
     Follow Standard Structure: Adhere to the typical structure of a scientific paper (Introduction, Methods, Results, Discussion, Abstract).
     Logical Flow: Ensure there is a logical flow from one section to the next.
@@ -44,7 +51,7 @@
 
    - **Revision**: Use of clear subheadings and separate paragraphs for each topic.
 
-6. Coherence:
+7. Coherence:
 
     Maintain Consistency: Be consistent in your use of terms, abbreviations, and formatting.
     Link Sections: Ensure each part of the paper connects logically to the others.
@@ -53,7 +60,7 @@
  
    - **Revision**: The study showed that the bacteria were resistant to antibiotics and increased in number.
   
-7. Audience Awareness:
+8. Audience Awareness:
 
     Know Your Audience: Write with your audience’s level of knowledge in mind.
     Be Engaging: While maintaining professionalism, try to make your writing engaging.
@@ -62,7 +69,7 @@
 
    - **Improved**: Adjusting the language to match the audience's level of expertise.
 
-8. Use of Visuals:
+9. Use of Visuals:
 
     Relevant Graphics: Use tables, figures, and charts to complement your text.
     Label Clearly: Ensure all visuals are clearly labeled and referenced in the text.
@@ -71,7 +78,7 @@
 
    - **Improved**: A graph with clear, legible labels, a concise legend, and a straightforward title.
 
-9. Ethical Writing:
+10. Ethical Writing:
 
     Avoid Plagiarism: Always credit sources and ideas that are not your own.
     Disclose Conflicts of Interest: Be transparent about any potential conflicts of interest.
@@ -93,9 +100,6 @@ Additional Tips:
    - **Example of passive**: The experiment was conducted, and the data were analyzed by the team.
    
    - **Revision**: The team conducted the experiment and analyzed the data.
-
-    
-* Writing the Abstract: Write the abstract last to ensure it accurately summarizes the content of your paper.
 
 * Start with an Outline: Create an outline of your paper before you start writing to organize your thoughts and structure your arguments.
 
