@@ -9,8 +9,9 @@
         To illustrate a point: "for instance," "for example," "specifically."
         To show cause and effect: "therefore," "thus," "as a result."
 
-   **Violation:** The experiment was successful. The equipment was outdated.
-   **Revision:** The experiment was successful. However, the equipment was outdated.
+**Violation:** The experiment was successful. The equipment was outdated.
+   
+**Revision:** The experiment was successful. However, the equipment was outdated.
 
 ---
 
