@@ -44,6 +44,8 @@ Resources for writing your manuscript
 
 ## Meetings
 
+* [Participant Progress Log](https://tamucc-my.sharepoint.com/:x:/g/personal/chris_bird_tamucc_edu/EcjcFeutHWBGru24mWxlrk4BXKBLkHg-C5ubW2bI7ocXBw?e=6wobH8)
+
 * [2023-12-04: Scientific writing & flow](https://tamucc.zoom.us/rec/share/5Afl6vP06zM3zjZDh5sH2ngYVXKoH5EIfSEjR_gZzN71DuVM4szwTuHE-r6k1hn4.pkFM3hqB__-shLww?startTime=1701713067000)
 
 * 2023-11-27: First Meeting
