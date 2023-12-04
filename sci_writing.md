@@ -5,15 +5,26 @@
     Be Concise: Use clear and direct language. Avoid unnecessary words or complex sentences.
     Define Terms: Clearly define any technical terms or jargon.
 
-   - **Example of Mistake**: The phenomenon that we observed was, in many respects, not dissimilar to the outcomes that were previously documented in the literature on this subject.
+   - **Example of Poor Clarity**: The phenomenon that we observed was, in many respects, not dissimilar to the outcomes that were previously documented in the literature on this subject.
 
-   - **Improved**: The phenomenon we observed was similar to previously documented outcomes.
+   - **Revision**: The phenomenon we observed was similar to previously documented outcomes.
+  
+   - **Example of Jargon**: The chromatographic elucidation was efficacious in the delineation of the compound's molecular constituency.
 
+   - **Revision**: The chromatography effectively identified the compound's molecular components.
 
-3. Accuracy:
+   - **Example of Common Grammatical Errors**: Misusing "their" instead of "there", or "affect" instead of "effect", or "which" instead of "that".
+
+   - **Revision**: Careful proofreading to correct such mistakes.
+
+2. Accuracy:
 
     Be Precise: Use accurate and specific language to describe your findings.
     Check Facts: Ensure all information, data, and citations are correct.
+
+   - **Example of Mistake**: Using ideas or data from other works without appropriate citation.
+
+   - **Revision**: Providing full and proper citations for every source used.
 
 4. Objectivity:
 
@@ -25,42 +36,70 @@
     Follow Standard Structure: Adhere to the typical structure of a scientific paper (Introduction, Methods, Results, Discussion, Abstract).
     Logical Flow: Ensure there is a logical flow from one section to the next.
 
+   - **Example of Poor Structure**: Discussing results before explaining the methodology.
+ 
+   - **Revision**: A clear progression from introduction, methodology, results, to discussion.
+
+   - **Example of Poor Structure**: A long, uninterrupted section of text covering multiple topics.
+
+   - **Revision**: Use of clear subheadings and separate paragraphs for each topic.
+
 6. Coherence:
 
     Maintain Consistency: Be consistent in your use of terms, abbreviations, and formatting.
     Link Sections: Ensure each part of the paper connects logically to the others.
 
+   - **Example of Inconsistent Tenses**: The study shows that the bacteria were resistant to antibiotics and they increase in number.
+ 
+   - **Revision**: The study showed that the bacteria were resistant to antibiotics and increased in number.
+  
 7. Audience Awareness:
 
     Know Your Audience: Write with your audience’s level of knowledge in mind.
     Be Engaging: While maintaining professionalism, try to make your writing engaging.
+
+   - **Example of Mistake**: Using highly technical language in a paper intended for a general audience.
+
+   - **Improved**: Adjusting the language to match the audience's level of expertise.
 
 8. Use of Visuals:
 
     Relevant Graphics: Use tables, figures, and charts to complement your text.
     Label Clearly: Ensure all visuals are clearly labeled and referenced in the text.
 
+   - **Example of Mistake**: A graph with tiny, unreadable labels and no clear legend.
+
+   - **Improved**: A graph with clear, legible labels, a concise legend, and a straightforward title.
+
 9. Ethical Writing:
 
     Avoid Plagiarism: Always credit sources and ideas that are not your own.
     Disclose Conflicts of Interest: Be transparent about any potential conflicts of interest.
 
-10. Revision and Feedback:
+11. Revision and Feedback:
 
     Revise Thoroughly: Revise your drafts for clarity, coherence, and length.
     Seek Feedback: Get input from colleagues or mentors to improve your writing.
 
-11. Adherence to Guidelines:
+12. Adherence to Guidelines:
 
     Journal Guidelines: Follow specific guidelines provided by the journal or publisher.
     Referencing Style: Use the appropriate referencing style consistently throughout your paper.
 
 Additional Tips:
 
-    Active vs. Passive Voice: While the passive voice is traditional in scientific writing, using active voice can make your writing clearer and more engaging.
-    Writing the Abstract: Write the abstract last to ensure it accurately summarizes the content of your paper.
-    Start with an Outline: Create an outline of your paper before you start writing to organize your thoughts and structure your arguments.
-    Practice and Learn: Continuously practice and learn from peer-reviewed articles in your field to improve your scientific writing skills.
+* Active vs. Passive Voice: While the passive voice is traditional in scientific writing, using active voice can make your writing clearer and more engaging.
+
+   - **Example of passive**: The experiment was conducted, and the data were analyzed by the team.
+   
+   - **Revision**: The team conducted the experiment and analyzed the data.
+
+    
+* Writing the Abstract: Write the abstract last to ensure it accurately summarizes the content of your paper.
+
+* Start with an Outline: Create an outline of your paper before you start writing to organize your thoughts and structure your arguments.
+
+* Practice and Learn: Continuously practice and learn from peer-reviewed articles in your field to improve your scientific writing skills.
 
 Conclusion:
 
