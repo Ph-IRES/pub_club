@@ -53,4 +53,6 @@ Passcode: +UNE67MK)
      
 ## Creation of Materials
 
-ChatGPT was used to create the first draft of these materials.  This is the link to the conversation: https://chat.openai.com/share/b2257f25-4519-4aca-8900-9b71235707b7
+ChatGPT was used to create the first draft of these materials.  This is the link to the conversation: 
+* https://chat.openai.com/share/b2257f25-4519-4aca-8900-9b71235707b7
+* https://chat.openai.com/share/b27bce2c-caf6-4521-8396-c39561e5a5b6
